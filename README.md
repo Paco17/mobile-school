@@ -1,1 +1,1 @@
-# mobile-school
+# School Homeworks in Android Studio
