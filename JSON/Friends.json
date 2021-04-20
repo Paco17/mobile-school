@@ -1,0 +1,88 @@
+{
+    "friends": [
+        {
+            "friend" : "Pedro Muñoz",
+            "hobbie" : "Nadar",
+            "age" : 21, 
+            "phone" : "341-456-3278",
+            "address": "Moctezuma #329"
+        }, 
+        {
+            "friend" : "Karla Figueroa",
+            "hobbie" : "Cantar",
+            "age" : 23, 
+            "phone" : "341-436-3212",
+            "address": "Tepito #132"
+        }, 
+        {
+            "friend" : "Fulanito II",
+            "hobbie" : "Jugar al Fortnite",
+            "age" : 25, 
+            "phone" : "333-834-0000",
+            "address": "Juan Escutia #9"
+        }, 
+        {
+            "friend" : "Bryan Goku",
+            "hobbie" : "Ver Dragon Ball",
+            "age" : 13, 
+            "phone" : "382-212-1212",
+            "address": "Namekuzein #3"
+        }, 
+        {
+            "friend" : "Jorge Sanchez",
+            "hobbie" : "Programar",
+            "age" : 35, 
+            "phone" : "333-672-4231",
+            "address": "Reposo #98"
+        }, 
+        {
+            "friend" : "Caro Peréz",
+            "hobbie" : "Ver Netflix",
+            "age" : 24, 
+            "phone" : "333-243-2133",
+            "address": "Tlaxcala #0"
+        }, 
+        {
+            "friend" : "Reynaldo Vega",
+            "hobbie" : "Reirse",
+            "age" : 21, 
+            "phone" : "356-820-1311",
+            "address": "Venustiano Carranza  #312"
+        }, 
+        {
+            "friend" : "Elon Musk",
+            "hobbie" : "Emprender",
+            "age" : 26, 
+            "phone" : "341-343-2843",
+            "address": "Bethoveen #923"
+        }, 
+        {
+            "friend" : "Jose Luis",
+            "hobbie" : "Boxear",
+            "age" : 27, 
+            "phone" : "341-475-1928",
+            "address": "Colon #123"
+        }, 
+        {
+            "friend" : "Diana Green",
+            "hobbie" : "Leer",
+            "age" : 21, 
+            "phone" : "564-162-9283",
+            "address": "Cabos #480"
+        }, 
+        {
+            "friend" : "Kinari kooc",
+            "hobbie" : "Salir de fiesta",
+            "age" : 20, 
+            "phone" : "333-322-1299",
+            "address": "Norte #2531"
+        }, 
+        {
+            "friend" : "Ricardo Jimenez",
+            "hobbie" : "Conducir",
+            "age" : 28, 
+            "phone" : "921-132-6457",
+            "address": "Glorieta #838"
+        }
+    ]
+}
