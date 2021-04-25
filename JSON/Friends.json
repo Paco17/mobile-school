@@ -1,27 +1,27 @@
 [
     {
-        "friend" : "Pedro Muñoz",
+        "friend" : "Pedro",
         "hobbie" : "Nadar",
         "age" : 21, 
         "phone" : "341-456-3278",
         "address": "Moctezuma #329"
     }, 
     {
-        "friend" : "Karla Figueroa",
+        "friend" : "Karla",
         "hobbie" : "Cantar",
         "age" : 23, 
         "phone" : "341-436-3212",
         "address": "Tepito #132"
     }, 
     {
-        "friend" : "Fulanito II",
-        "hobbie" : "Jugar al Fortnite",
+        "friend" : "Paco",
+        "hobbie" : "Jugar RL",
         "age" : 25, 
         "phone" : "333-834-0000",
         "address": "Juan Escutia #9"
     }, 
     {
-        "friend" : "Ariel Valenzuela",
+        "friend" : "Ariel",
         "hobbie" : "Comer",
         "age" : 13, 
         "phone" : "382-212-1212",
@@ -42,7 +42,7 @@
         "address": "Tlaxcala #0"
     }, 
     {
-        "friend" : "Reynaldo Vega",
+        "friend" : "Reynaldo",
         "hobbie" : "Reirse",
         "age" : 21, 
         "phone" : "356-820-1311",
@@ -70,14 +70,14 @@
         "address": "Cabos #480"
     }, 
     {
-        "friend" : "Kinari kooc",
-        "hobbie" : "Salir de fiesta",
+        "friend" : "Kinari",
+        "hobbie" : "Salir",
         "age" : 20, 
         "phone" : "333-322-1299",
         "address": "Norte #2531"
     }, 
     {
-        "friend" : "Ricardo Jimenez",
+        "friend" : "Ricardo",
         "hobbie" : "Conducir",
         "age" : 28, 
         "phone" : "921-132-6457",
